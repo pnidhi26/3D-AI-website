@@ -28,20 +28,20 @@ const Home = () => {
           <motion.div className="home-content" {...headContainerAnimation}>
             <motion.div {...headTextAnimation}>
               <h1 className="head-text">
-                STREET WEAR, <br className="xl:block hidden" /> Fashion AI.
+                STREETWEAR, URBAN <br className="xl:block hidden" /> Fashion AI.
               </h1>
             </motion.div>
             <motion.div
               {...headContentAnimation}
               className="flex flex-col gap-5"
             >
-              <p className="max-w-md font-normal text-gray-600 text-base">
-              Create your unique and exclusive T-shirt with our brand-new 3D customization tool. <strong>Unleash your imagination</strong>{" "} and define your own style.
+              <p className="max-w-md font-normal text-white text-base">
+              Create your unique and exclusive T-shirt with our brand-new 3D customization tool. <strong>Unleash your imagination</strong>{" "} and define your own style powered by Artificial Intelligence.
               </p>
 
               <CustomButton 
                 type="filled"
-                title="Customize It"
+                title="Let's Customize"
                 handleClick={() => state.intro = false}
                 customStyles="w-fit px-4 py-2.5 font-bold text-sm"
               />
