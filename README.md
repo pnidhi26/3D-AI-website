@@ -29,7 +29,7 @@ Three.js, Fiber, React.js, Vite, Framer Motion, Tailwind CSS, Express, OpenAI
 * https://platform.openai.com/account/api-keys
 
 
-# How to run this project: 
+# How to run this project on Local Server: 
 
 - run client:
 *  npm run dev
