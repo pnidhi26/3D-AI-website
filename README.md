@@ -4,7 +4,9 @@
 Three.js, Fiber, React.js, Vite, Framer Motion, Tailwind CSS, Express, OpenAI
 
 # Live Demo:
-* This website is live on Render: 
+* Website Demo (Hosted at Netlify): https://fashion-ai.netlify.app/
+* API is Hosted at Render: https://fashion-ai-33eo.onrender.com/
+
 
 
 # Commands:
