@@ -3,6 +3,9 @@
 # Technology Used:
 Three.js, Fiber, React.js, Vite, Framer Motion, Tailwind CSS, Express, OpenAI
 
+# Live Demo:
+* This website is live on Render: 
+
 
 # Commands:
 * npm create vite@latest -- --template react client
@@ -33,6 +36,8 @@ run this on browser:: http://localhost:5173/
 - run server:
 * npm start
 run this on browser:: http://localhost:8080/
+
+
 
 
 
