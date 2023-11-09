@@ -1,4 +1,5 @@
 # 3D-AI-website
+![image](https://github.com/pnidhi26/3D-AI-website/assets/30867614/c98b0652-0a95-4f50-b955-5512a465eec8)
 
 # Technology Used:
 Three.js, Fiber, React.js, Vite, Framer Motion, Tailwind CSS, Express, OpenAI
